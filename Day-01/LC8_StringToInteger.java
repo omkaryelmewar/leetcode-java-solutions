@@ -1,5 +1,6 @@
 
-    class Solution {
+    class Solution
+     {
         public int myAtoi(String s) {
             s = s.trim(); // removes frond and end spaces 
             if(s.isEmpty()){
